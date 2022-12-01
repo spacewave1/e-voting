@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/spacewave1/e-voting-core
+[submodule "simulation"]
+	path = simulation
+	url = https://github.com/spacewave1/e-voting-simulation
+[submodule "visualisation"]
+	path = visualisation
+	url = https://github.com/spacewave1/e-voting-visualisation

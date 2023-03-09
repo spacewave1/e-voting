@@ -7,3 +7,6 @@
 [submodule "visualisation"]
 	path = visualisation
 	url = https://github.com/spacewave1/e-voting-visualisation
+[submodule "did-pvote"]
+	path = did-pvote
+	url = git@github.com:spacewave1/did-pvote.git

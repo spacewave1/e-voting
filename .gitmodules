@@ -1,12 +1,12 @@
 [submodule "core"]
 	path = core
-	url = https://github.com/spacewave1/e-voting-core
+	url = https://github.com/wld-16/e-voting-core
 [submodule "simulation"]
 	path = simulation
-	url = https://github.com/spacewave1/e-voting-simulation
+	url = https://github.com/wld-16/e-voting-simulation
 [submodule "visualisation"]
 	path = visualisation
-	url = https://github.com/spacewave1/e-voting-visualisation
-[submodule "did-pvote"]
-	path = did-pvote
-	url = git@github.com:spacewave1/did-pvote.git
+	url = https://github.com/wld-16/e-voting-visualisation
+[submodule "did"]
+	path = did
+	url = git@github.com:wld-16/did-pvote.git
